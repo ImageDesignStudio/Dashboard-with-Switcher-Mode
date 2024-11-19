@@ -21,4 +21,4 @@ Para instalar y ejecutar la aplicación localmente, sigue estos pasos:
    ```bash
    git clone https://github.com/ImageDesignStudio/09_Dashboard-with-Switcher-Mode.git
 
-   ![Demo](./assets/demo.png)
+![Demo](assets/demo.png)
