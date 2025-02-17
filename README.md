@@ -1,4 +1,4 @@
-# 09_Dashboard-with-Switcher-Mode
+09_Dashboard-with-Switcher-Mode
 
 ## Dashboard Image Social
 
